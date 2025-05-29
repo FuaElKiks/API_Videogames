@@ -55,10 +55,4 @@ Esta API depende del scraping de Wikipedia, por lo que cambios en la estructura 
 
 ---
 
-## Licencia
-
-Proyecto bajo licencia MIT © 2025
-
----
-
 **¡Disfruta gestionando y descubriendo nuevos juegos con Videojuegos App!**
